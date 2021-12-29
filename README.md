@@ -1,7 +1,7 @@
 ### Olá! Sou Carlos Daniel 👋
 
 
-- 🔭 Hoje trabalho com front-end e um pouco de back-end
+- 🔭 Atualmente trabalhando com front-end e um pouco de back-end.
 - 🌱 Estudando PHP
 
 <div align="center">
