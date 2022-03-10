@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando com front-end e um pouco de back-end.
-- 🌱 Estudando PHP
+- 🌱 Estudando PHP,Node,React e React Native.
 
 <div align="center">
   <a href="https://github.com/CarlosDanielMoura">
