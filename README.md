@@ -5,7 +5,8 @@
 
 <div align="center">
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CarlosDanielMoura&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/CarlosDanielMoura)
-
+</div>
+  <div align="center">
 [![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielMoura&layout=compact&langs_count=7&theme=dracula)](https://github.com/CarlosDanielMoura)
 </div>
   
