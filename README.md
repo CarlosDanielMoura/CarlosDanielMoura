@@ -1,15 +1,14 @@
 ### Olá! Sou Carlos Daniel 👋
-
-- 🔭 Atualmente trabalhando como front-end e um pouco de back-end.
-- 🌱 Estudando PHP, Node, React e React Native.
+Desenvolvedor Front End | Javascript | Node.js | TypeScript | React Js
 
 <div align="center">
- 
- ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosDanielMoura&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
- </div>
-  <div align="center">
-[![Principais linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielMoura&layout=compact&langs_count=7&theme=dracula)](https://github.com/CarlosDanielMoura)
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosDanielMoura&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Carlos GitHub stats">
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosDanielMoura&layout=compact" alt="Top Langs">
+</div>
+
   
   <div align="center" ><br>
   <img align="center" alt="Figura HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
